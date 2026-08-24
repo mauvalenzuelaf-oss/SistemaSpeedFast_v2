@@ -13,7 +13,7 @@
 
 Este proyecto corresponde a la **Actividad Formativa N° 2** de la asignatura **Desarrollo Orientado a Objetos II**. 
 
-Se trata de la segunda etapa de **SistemaSpeedFast**, una aplicación desarrollada en Java que representa la gestión de distintos tipos de pedidos para la empresa ficticia SpeedFast, dedicada al reparto a domicilio.
+Se trata de la segunda etapa de **SistemaSpeedFast**, una aplicación desarrollada en Java que representa la gestión de distintos tipos de pedidos para la empresa SpeedFast, dedicada al reparto a domicilio.
 
 En esta versión, el sistema permite calcular el **tiempo estimado de entrega** de tres tipos de pedidos:
 
